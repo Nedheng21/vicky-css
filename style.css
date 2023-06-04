@@ -1,0 +1,123 @@
+
+.l-ear{
+    background-color: brown;
+    margin: 0%;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    position: relative;
+    left: 200px;
+    top: 120px;
+    
+}
+.r-ear{
+    background-color: brown;
+    margin: 0%;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    position: relative;
+    left: 330px;
+    top: 50px;
+    
+    
+}
+.head{
+    background-color:antiquewhite;
+    margin: 0%;
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    left: 200px;
+     
+}
+.mouth{
+    background-color: brown;
+      width: 90px;
+      height: 70px;
+      border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+      position: relative;
+      left: 255px;
+      bottom: 70px;
+}
+
+.nose{
+    
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid black;
+    position: relative;
+    left: 290px;
+    bottom: 140px;
+}
+
+.smile{
+    width: 50px;
+  height: 10px;
+  border: solid 3px #000;
+  border-color: transparent transparent #000 transparent;
+  border-radius: 0 0 20px 50%/9px;
+  position: relative;
+  bottom: 105px;
+  left: 273px;
+}
+
+.line{
+    height: 50px;
+    width: 3px;
+    background-color: #000;
+    position: relative;
+    left: 300px;
+    bottom: 155px;
+
+}
+.l-eye{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    position: relative;
+    left: 250px;
+    bottom: 230px;
+}
+.r-eye{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    position: relative;
+    left: 330px;
+    bottom: 245px;
+}
+/*
+display: block;
+      width: 126px;
+      height: 180px;
+      background-color: red;
+      border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+
+         #cone {
+      width: 0;
+      height: 0;
+      border-left: 70px solid transparent;
+      border-right: 70px solid transparent;
+      border-top: 100px solid red;
+      border-radius: 50%;
+    }
+
+
+    background-color: brown;
+    margin: 0%;
+      width: 0;
+      height: 0;
+      border-left: 70px solid transparent;
+      border-right: 70px solid transparent;
+      border-bottom: 100px solid red;
+      border-radius: 50%;
+      position: relative;
+      left: 230px;
+      bottom: 100px;
+*/
